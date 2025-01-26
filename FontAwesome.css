@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src: url(FontAwesome-c51bcfa689b9038998fd271f21fd4386.eot) format('embedded-opentype'),
+	url(FontAwesome-c51bcfa689b9038998fd271f21fd4386.eot) format('embedded-opentype'),
+	url(FontAwesome-e1f026c2d0f0d24a167fa5857029f0f3.woff) format('woff'),
+	url(FontAwesome-8c7d88becef9abd49770b3cf120411d1.ttf) format('truetype'),
+	url(FontAwesome-f7df65319fdee5439ba748ef41dd68af.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}

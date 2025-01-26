@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'remixicon';
+	src: url(remixicon-01d5fc916fbd4be2046eb6ee7cc54a90.eot) format('embedded-opentype'),
+	url(remixicon-01d5fc916fbd4be2046eb6ee7cc54a90.eot) format('embedded-opentype'),
+	url(remixicon-113fa915535a8648d5ba4ddce807fd13.woff2) format('woff2'),
+	url(remixicon-f0b4b7cef20c4f025f551235465561f5.woff) format('woff'),
+	url(remixicon-a04f481a34d21ecbf6f45d85e044ebdd.ttf) format('truetype'),
+	url(remixicon-0ea92c15136e183d013428de156f3ecc.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
